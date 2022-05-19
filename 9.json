@@ -1,9 +1,9 @@
 {
   "name": "TenthCat",
   "symbol": "TSC",
-  "image": "9.png",
+  "image": "https://raw.githubusercontent.com/KenTin/asdgfdsFa/main/9.png",
   "properties": {
-    "files": [{ "uri": "9.png", "type": "image/png" }],
+    "files": [{ "uri": "https://raw.githubusercontent.com/KenTin/asdgfdsFa/main/9.png", "type": "image/png" }],
     "category": "image",
     "creators": [
       {
