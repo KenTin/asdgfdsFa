@@ -1,23 +1,39 @@
 {
-  "name": "36CattaC",
+  "name": "WoodyCat",
   "symbol": "TSC",
-  "description": "36Cats Collection only for testing purpose",
-  "seller_fee_basis_points": 500,
-  "image": "https://raw.githubusercontent.com/KenTin/asdgfdsFa/main/111.png",
+  "image": "https://raw.githubusercontent.com/KenTin/asdgfdsFa/main/67.png",
   "properties": {
-    "files": [
-      {
-        "type": "image/png",
-        "uri": "https://raw.githubusercontent.com/KenTin/asdgfdsFa/main/111.png",
-        "type": "application/json"
-      }
-    ],
+    "files": [{ "uri": "https://raw.githubusercontent.com/KenTin/asdgfdsFa/main/67.png", "type": "image/png" }],
     "category": "image",
     "creators": [
       {
         "address": "4RV7B3qyFDEmPdsttKf3yY6dD8aq7BpnqWMHaJmj5Aqr",
+        "share": 0
+      },
+      {
+        "address": "8H1obiPg9Uyne8wgztREGCvCLioQrLiH1r7U4VHVTCKT",
         "share": 100
       }
     ]
+  },
+  "description": "A cat with sunglass in 36Cat1 collection ",
+  "seller_fee_basis_points": 500,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Body",
+      "value": "White"
+    },
+    {
+      "trait_type": "Outline",
+      "value": "Red"
+    }
+  ],
+  "collection": {
+    "name": "36Cat",
+    "family": "36Cat"
   }
 }
