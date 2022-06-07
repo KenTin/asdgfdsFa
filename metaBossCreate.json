@@ -2,6 +2,7 @@
   "name": "WoodyCat",
   "symbol": "TSC",
   "image": "https://raw.githubusercontent.com/KenTin/asdgfdsFa/main/67.png",
+  "external_url":"https://www.google.com",
   "properties": {
     "files": [{ "uri": "https://raw.githubusercontent.com/KenTin/asdgfdsFa/main/67.png", "type": "image/png" }],
     "category": "image",
