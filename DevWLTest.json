@@ -1,0 +1,22 @@
+{
+    "name": "CandyMachineSuck",
+    "symbol": "CMS",
+    "description": "CandyMachineSuck Collection only for testing purpose",
+    "seller_fee_basis_points": 500,
+    "image": "https://raw.githubusercontent.com/KenTin/asdgfdsFa/main/30.png",
+    "properties": {
+        "files": [
+            {
+                "type": "image/png",
+                "uri": "https://raw.githubusercontent.com/KenTin/asdgfdsFa/main/30.png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "FZwka5zZKvK1dUPKMphFYqAeo3MsYsygJLabWtJKkXxt",
+                "share": 100
+            }
+        ]
+    }
+}
